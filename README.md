@@ -78,5 +78,4 @@ Developed by **Pradnesh Fernandez A**, IIIT Dharwad.
 - **Author**: Pradnesh Fernandez A
 - **Roll Number**: 23BDS044
 
-Required packages listed in `requirements.txt`.
 
