@@ -63,7 +63,7 @@ After the algorithms have run, the program displays:
 - A comparison of results.
 
 ### Visualize the Graph:
-- The program will visualize the generated graph and highlight the shortest paths calculated by both algorithms using appropriate libraries.
+- The program will visualize the generated graph and highlight the shortest paths calculated by both algorithms.
 
 ## Results
 
